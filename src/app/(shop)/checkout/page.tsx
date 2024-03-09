@@ -84,7 +84,7 @@ export default function CheckoutPage() {
                         <div className="mt-5 mb-2 w-full">
                             {/* Disclaimer */}
                             <p className="mb-5">
-                                <span className='text-xs'>Al hacer clic en "Colocar orden", aceptas nuestros <Link href="#" className="underline">términos y condiciones</Link> y <Link href="#" className="underline">política de privacidad</Link>.</span>
+                                <span className='text-xs'>Al hacer clic en &ldquo;Colocar orden&ldquo;, aceptas nuestros <Link href="#" className="underline">términos y condiciones</Link> y <Link href="#" className="underline">política de privacidad</Link>.</span>
                             </p>
 
                             <Link
